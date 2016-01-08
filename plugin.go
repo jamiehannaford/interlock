@@ -1,7 +1,7 @@
 package interlock
 
 import (
-	"github.com/samalba/dockerclient"
+	"github.com/jamiehannaford/interlock/Godeps/_workspace/src/github.com/samalba/dockerclient"
 )
 
 type PluginInfo struct {
